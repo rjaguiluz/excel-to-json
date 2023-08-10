@@ -1,7 +1,7 @@
 {
-    "name": "simple-excel-to-json",
-    "version": "2.3.1",
-    "description": "parse excel to json object",
+    "name": "simple-excel-to-json-u",
+    "version": "2.3.2",
+    "description": "fork from simple-excel-to-json without vulnerabilities",
     "main": "index.js",
     "scripts": {
         "test": "mocha"

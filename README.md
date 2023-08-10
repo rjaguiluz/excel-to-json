@@ -4,12 +4,13 @@ Read excel file and parse it to javascript Object.
 # Install
 
 ```sh
-npm install simple-excel-to-json
+npm install simple-excel-to-json-u
 ```
 
 
 # Simplified Usage
-You can just require the modure "simple-excel-to-json" and execute the method 'parseXls2Json' 
+Fork from simple-excel-to-json without vulnerabilities.
+You can just require the modure "simple-excel-to-json-u" and execute the method 'parseXls2Json' 
 
 ```javascript
 

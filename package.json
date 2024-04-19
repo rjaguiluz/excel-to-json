@@ -1,6 +1,6 @@
 {
     "name": "simple-excel-to-json-u",
-    "version": "2.3.2",
+    "version": "2.3.3",
     "description": "fork from simple-excel-to-json without vulnerabilities",
     "main": "index.js",
     "scripts": {
